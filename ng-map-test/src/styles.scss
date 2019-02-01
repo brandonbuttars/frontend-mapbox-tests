@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import '../node_modules/mapbox-gl/dist/mapbox-gl.css';
+
+html {
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+body {
+  position: relative;
+}
+
+#memory {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+  font-size: 1.4rem;
+  z-index: 2;
+  padding: 2rem;
+}

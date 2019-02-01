@@ -1,0 +1,30 @@
+@import '../node_modules/mapbox-gl/dist/mapbox-gl.css';
+
+html {
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+body {
+  position: relative;
+}
+
+#map {
+  position: fixed;
+  left: 2rem;
+  right: 2rem;
+  top: 2rem;
+  bottom: 2rem;
+  border: 0.5rem solid #E9E9E7;
+}
+
+#memory {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+  font-size: 1.4rem;
+  z-index: 2;
+  padding: 2rem;
+}
