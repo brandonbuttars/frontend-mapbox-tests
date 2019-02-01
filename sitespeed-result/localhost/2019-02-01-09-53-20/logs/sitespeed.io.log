@@ -1,0 +1,10 @@
+[2019-02-01 09:53:20] INFO: [sitespeedio] Versions OS: darwin 18.2.0 nodejs: v10.15.1 sitespeed.io: 8.1.1 browsertime: 4.1.0 coach: 3.2.0
+[2019-02-01 09:53:20] INFO: [browsertime] Running tests using Chrome - 3 iteration(s)
+[2019-02-01 09:53:21] INFO: [browsertime.command.measure] Testing url http://localhost:3000 iteration 1
+[2019-02-01 09:53:27] INFO: [browsertime] http://localhost:3000/ BackEndTime: 7 DomInteractiveTime: 235 DomContentLoadedTime: 235 FirstPaint: 248 PageLoadTime: 250
+[2019-02-01 09:53:28] INFO: [browsertime.command.measure] Testing url http://localhost:3000 iteration 2
+[2019-02-01 09:53:34] INFO: [browsertime] http://localhost:3000/ BackEndTime: 7 DomInteractiveTime: 239 DomContentLoadedTime: 239 FirstPaint: 253 PageLoadTime: 255
+[2019-02-01 09:53:35] INFO: [browsertime.command.measure] Testing url http://localhost:3000 iteration 3
+[2019-02-01 09:53:41] INFO: [browsertime] http://localhost:3000/ BackEndTime: 8 DomInteractiveTime: 234 DomContentLoadedTime: 234 FirstPaint: 248 PageLoadTime: 250
+[2019-02-01 09:53:41] INFO: [browsertime] http://localhost:3000/ 14 requests, 378.82 kb, backEndTime: 7ms (±0.27ms), firstPaint: 250ms (±1.36ms), DOMContentLoaded: 236ms (±1.25ms), Load: 252ms (±1.36ms), rumSpeedIndex: 250 (±1.36) (3 runs)
+[2019-02-01 09:53:42] INFO: [sitespeedio.plugin.html] HTML stored in /Users/brandonbuttars/Dropbox/Fortem/Sandbox/frontend-mapbox-tests/sitespeed-result/localhost/2019-02-01-09-53-20
